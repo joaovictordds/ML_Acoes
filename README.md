@@ -117,6 +117,8 @@ Por hoje é isso.
 
 Neste [link](https://share.streamlit.io/joaovictordds/fincancas_mf/main/app.py) você encontra como eu fiz uma simulação Monte Carlo para prever 10 preços diferentes para os próximos 50 dias de ações *Blue Chips* da B3.
 
+Outros projetos do meu [portfolio](https://joaovictordds.github.io/Portfolio/)
+
 Obrigado
 
 *postado em 08/07/2021.*
