@@ -105,7 +105,6 @@ plt.show();
 
 ![Image](brad10dd.png)
 
-Pronto, realemnte é só isso!
 E aí, vai comprar, vender, arriscar umas opções, montar uma trava?
 
 Vai confiar no resultado do seu algorítmo? rsrs
