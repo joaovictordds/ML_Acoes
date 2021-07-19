@@ -2,7 +2,6 @@
 
 ![Image](210320204824.jpg)
 
-### Bem vindo novamente!
 
 Neste artigo vou mostrar como você pode, com apenas nove blocos de um notebook do Google Colab, coletar dados, montar uma base de dados, processar a informação, gerar gráficos e ainda rodar um modelo de Machine Learning simples, elegante, prático, fácil..
 
@@ -105,15 +104,4 @@ plt.show();
 
 ![Image](brad10dd.png)
 
-E aí, vai comprar, vender, arriscar umas opções, montar uma trava?
-
-Vai confiar no resultado do seu algorítmo? rsrs
-
-Por hoje é isso. *Se gostou, clique no botão curtir, ative o sinin..* não, espera aí..
-
-Neste [link](https://share.streamlit.io/joaovictordds/fincancas_mf/main/app.py) mostro como fiz uma simulação Monte Carlo para prever 10 preços diferentes para os próximos 50 dias de ações *Blue Chips* da B3. E aqui você pode acessar outros projetos do meu [portfolio](https://joaovictordds.github.io/Portfolio/).
-
-Obrigado
-
-*postado em 08/07/2021.*
-*fonte da imagem: Werther Santana/Estadão*
+Até a próxima!
